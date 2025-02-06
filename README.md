@@ -11,7 +11,7 @@ Note: None of these readings are reflections of realtime stock data and should n
 Libraries Used:
 
 React(Frontend)
-  - MUI
+MUI
 Flask(Backend)
 NewsAPI(To gather news headlines)
 torch
