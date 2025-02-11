@@ -1,4 +1,4 @@
-This was a project created by Areeb Rehman and Subham Jenna. The point of this project was to create a frontend and backend in order to analyze the sentiment of a specific stock based on news headlines.
+This was a project created by Areeb Rehman and Subham Jena. The point of this project was to create a frontend and backend in order to analyze the sentiment of a specific stock based on news headlines.
 
 To Run:
 
