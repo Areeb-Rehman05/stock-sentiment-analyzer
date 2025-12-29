@@ -48,7 +48,7 @@ def get_articles():
     return article_list
     
 #This part is just the same as the newsAPI script however at the end it feeds the information into the model
-API_KEY = "caa867d4940444268bd55423be0ee3a2"
+API_KEY = ""
 newsapi = NewsApiClient(api_key=API_KEY)
 
 today = datetime.today()
